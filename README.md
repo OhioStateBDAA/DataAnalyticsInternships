@@ -1,4 +1,4 @@
-# Summer 2024 Data Analytics Internships by the Big Data Analytics Association
+Data Analytics Internships by the Big Data Analytics Association
 
 
 ---
