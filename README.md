@@ -1,11 +1,14 @@
-Data Analytics Internships by the Big Data Analytics Association
-
-
+# Data Analytics Internships | Big Data Analytics Association
 ---
-
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
-| **[Xylem](https://simplify.jobs/c/Xylem)** | Software Engineering Intern | Morrisville, NC | <a href="https://jobs.jobvite.com/xylem/job/oIynsfwP?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8ee826a4-4d65-4883-a98f-253d9eb2e6eb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 21 |
-| ↳ | Software Engineer Intern | Morrisville, NC | <a href="https://jobs.jobvite.com/xylem/job/oFRmsfw4?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/280aac3f-ca16-4c13-91eb-83b14121c946?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 21 |
+| Company Name     | Position | Location | Apply |
+|------------------|----------|----------|-------|
+| KLA Corporation  | Position |          | [Apply](https://kla.wd1.myworkdayjobs.com/Search?_ga=2.118825291.356434801.1706229234-1130553198.1706229234&_gl=1*ijiqo2*_ga*MTEzMDU1MzE5OC4xNzA2MjI5MjM0*_ga_TZPEFM1MF5*MTcwNjIyOTIzNC4xLjAuMTcwNjIyOTIzNC4wLjAuMA..&workerSubType=bcb876733f86017814949a52051b230c) |
+| Crown            | Position |          | [Apply](https://us-careers.crown.com/go/Co-op-and-Intern/7836800/) |
+| DHL              | Position |          | [Apply](https://apply.jobappnetwork.com/clients/14637/posting/3838246/en#s) |
+| Cintas           | Position |          | [Apply](https://jobs.cintas.com/intern/jobs-in/) |
+| CGI              | Position |          | [Apply](https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=joblisting) |
+| Fifth Third      | Position |          | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers) |
+| ROCKET Companies | Position |          | [Apply](https://www.myrocketcareer.com/teams/internships/#internjobs) |
+| Epic             | Position |          | [Apply](https://careers.epic.com/Jobs) |
